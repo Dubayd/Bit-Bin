@@ -1,19 +1,21 @@
-folder structuur: 
-- in de design folder vind je alle gemaakte designs
-- in de GeSHI folder vind je alle code voor de syntax highlighter
-- in de import folder vind je het sql bestand om de database te kunnen importeren
-- in de includes folder vind je verschillende stukken code die meerdere keren is gebruikt om herschrijven te voorkomen
-- in de style folder vind je de zelfgeschreven css
-- de rest van de paginas spreekt voorzich
+Folder structure:
 
-handleiding voor installatie:
-- zet de volledige folder in de htdocs folder van xampp
-- importeer de bitbin.sql naar je eigen database applicatie
+In the "design" folder, you will find all the created designs.
+In the "GeSHI" folder, you will find all the code for the syntax highlighter.
+In the "import" folder, you will find the SQL file to import the database.
+In the "includes" folder, you will find various pieces of code that are used multiple times to prevent redundancy.
+In the "style" folder, you will find the custom-written CSS.
+The rest of the pages are self-explanatory.
+Installation guide:
 
-description:
-dit is een pastebin applicatie gemaakt voor intern gebruik binnen bedrijven.
-plaats een stuk HTML5 of PHP code in het textvak, selecteer de juiste categorieen en paste het.
-daarna word de code gehighlight en kan je het delen of de verschillende pastes bekijken op de overview page
+Place the entire folder in the "htdocs" folder of XAMPP.
+Import the "bitbin.sql" file into your own database application.
+Description:
+This is a pastebin application designed for internal use within companies.
+Place a piece of HTML5 or PHP code in the text box, select the appropriate categories, and paste it.
+Then, the code will be highlighted, and you can share it or view different pastes on the overview page.
 
-bugs and features:
-op sommige laptops werkt de share functie niet.
+Bugs and issues:
+On some laptops, the sharing function does not work.
+
+
